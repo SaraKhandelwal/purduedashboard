@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-This dashboard delivers a McKinsey-style analytical experience for exploring Purdue University's publishing landscape — from a university-wide view down to the Agriculture sub-portfolio. It combines Scopus and OpenAlex data sources to provide cross-validated insights into publisher concentration, citation impact, and portfolio composition.
+This dashboard delivers an analytical experience for exploring Purdue University's publishing landscape — from a university-wide view down to the Agriculture sub-portfolio. It combines Scopus and OpenAlex data sources to provide cross-validated insights into publisher concentration, citation impact, and portfolio composition.
 
 **The tool answers questions like:**
 - Which publishers dominate Purdue's research output?
@@ -166,19 +166,6 @@ Open your browser to `http://localhost:8501`
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots here after deployment*
-
-| Page | Preview |
-|------|---------|
-| Executive Summary | *(screenshot)* |
-| Purdue Overview | *(screenshot)* |
-| Agriculture Deep Dive | *(screenshot)* |
-| Comparative Analytics | *(screenshot)* |
-
----
-
 ## 📊 Data Sources
 
 | Sheet | Description |
@@ -189,9 +176,7 @@ Open your browser to `http://localhost:8501`
 ---
 
 ## 👤 Author
-
-Built as part of a consulting-grade analytics project for Purdue University publishing research.
-
+Sara Khandelwal
 ---
 
 ## 📄 License
