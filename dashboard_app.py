@@ -1,9 +1,8 @@
 """
 Purdue University Publishing Analytics Dashboard
-McKinsey-style executive intelligence tool for university leadership
+Executive intelligence tool for university leadership
 
-Author: Analytics Team
-Version: 1.0.0
+Author: Sara Khandelwal
 """
 
 import streamlit as st
